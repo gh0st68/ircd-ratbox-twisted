@@ -1,0 +1,15 @@
+*.o
+*.lo
+*.la
+*.so
+.libs/
+.deps/
+.dirstamp
+install/
+config.log
+config.status
+libtool
+autom4te.cache/
+Makefile
+!Makefile.am
+!Makefile.in
